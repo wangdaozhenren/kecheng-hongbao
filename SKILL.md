@@ -1,4 +1,4 @@
-﻿---
+---
 name: kecheng-hongbao
 slug: kecheng-hongbao
 displayName: 在线课程红包助手
